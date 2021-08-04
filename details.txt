@@ -1,2 +1,4 @@
 today's update
 basic git operations 
+
+Note: take screenshots
