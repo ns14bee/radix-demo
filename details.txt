@@ -9,3 +9,6 @@ Do all the stuff using cmd
 
 okay thank you
 
+sql details
+Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
+
