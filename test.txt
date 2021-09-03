@@ -1,0 +1,29 @@
+[33mcommit 21d9fc1ac623364f63bbc5b738c9afe7b3a4ac07[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: niraj <niraj.surati01@gmail.com>
+Date:   Fri Sep 3 14:03:54 2021 +0530
+
+    renamed
+
+[33mcommit fb309ff9d17ca41b68d70a357a0bf8c8222605ac[m
+Author: niraj <niraj.surati01@gmail.com>
+Date:   Fri Sep 3 13:45:54 2021 +0530
+
+    updated twice twice
+
+[33mcommit 156cbd9bf6bd15629f7590cf554ffff96e4b2477[m
+Author: niraj <niraj.surati01@gmail.com>
+Date:   Fri Sep 3 13:44:35 2021 +0530
+
+    1st
+
+[33mcommit 50167121997597ef2b6f9a0618287393a4b3408c[m
+Author: niraj <niraj.surati01@gmail.com>
+Date:   Fri Sep 3 13:41:38 2021 +0530
+
+    2nd
+
+[33mcommit e591ca633ce685b423abb9a2af5e459b3de3baea[m
+Author: niraj <niraj.surati01@gmail.com>
+Date:   Fri Sep 3 13:40:49 2021 +0530
+
+    1st
